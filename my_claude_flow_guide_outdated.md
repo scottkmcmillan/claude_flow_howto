@@ -27,7 +27,7 @@ Use npm for claude code (does a global install)
 Use npx for claude flow since it is being regularly updated and this way you get the most recent version
 (only needs to be done once in the codespace, then have it in that workspace to access via npx)
 
-npx --y claude-flow@alpha init --force
+
 
 
 17:00 - starts installing claude flow
